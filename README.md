@@ -1,4 +1,4 @@
-# CLITrance
+# CLI Trance
 
 **CLITrance** is a lightweight command-line OSINT tool designed to help you trace usernames, emails, and domains across public data sources.
 
